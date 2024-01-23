@@ -24,3 +24,5 @@ export default class Newsitem extends Component {
     )
   }
 }
+
+// just added comment for checking 
